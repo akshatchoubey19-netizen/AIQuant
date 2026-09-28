@@ -1,14 +1,14 @@
 # conditionals
-# a= input("enter her age")
-# age= int(a)
-# if age < 18:
-#     print("Minor hai madharch")
-# elif age < 21:
-#      print("still bachhi")
-# elif age < 24:
-#      print("works")
-# else: 
-#     print("Mommyyy")
+a= input("enter age")
+age= int(a)
+if age < 18:
+    print("Bachhe")
+elif age < 21:
+     print("Bade bachhe")
+elif age < 50:
+     print("Adult")
+else: 
+    print("Budhhe ho gaye")
 #loops
 
 for i in "cat":     
